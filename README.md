@@ -2,10 +2,10 @@
 
 ### File画面
 
-* Blame
+Blame
 行ごとのコミット情報が確認できる
 
-* History
+History
 履歴を参照できる
 
 
