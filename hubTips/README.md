@@ -1,4 +1,4 @@
-# hub Tips
+# [hub Tips](https://github.com/github/hub)
 
 ## clone
 
@@ -17,3 +17,20 @@ hub push origin hub-tips
 **hub pull-request**
 
 **hub pull-request -i [issue no]**
+
+## checkout
+
+**hub ckeckout [url]**
+
+git remote add -f -t [user name] [git url]
+
+git checkout --track -B [branch name] [remote branch name]
+
+## create
+
+hub create
+
+## browse
+
+hub browse
+
