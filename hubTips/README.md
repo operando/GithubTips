@@ -8,3 +8,12 @@
 
 **hub clone [user name]/[repository name]**
 
+## pull-request
+
+hub ckeckout -b hub-tips
+
+hub push origin hub-tips
+
+**hub pull-request**
+
+**hub pull-request -i [issue no]**
